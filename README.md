@@ -2,7 +2,7 @@
 
 
 <h3>- 😁 I’m currently working on Robotic Process Automation with UiPath at Hypeone/neo.
-<br>- 😜 I’m currently learning Dev Web Full Stack JS.</h3>
+<br>- 😜 I’m currently learning Dev Web Full Stack JS/NODE/REACT.</h3>
 
 ##
 
