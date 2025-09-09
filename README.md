@@ -1,8 +1,7 @@
 <h1>console.log('Olá Mundo')</h1>
 
 
-<h3>- 😁 I’m currently working on Robotic Process Automation with UiPath at Hypeone/neo.
-<br>- 😜 I’m currently learning Dev Web Full Stack JS/NODE/REACT.</h3>
+<h3>- 😁 I’m currently working on RPA Especialist in TIVIT.
 
 ##
 
