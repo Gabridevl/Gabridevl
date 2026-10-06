@@ -1,7 +1,7 @@
 <h1>console.log('Olá Mundo')</h1>
 
 
-<h3>- 😁 I’m currently working on RPA Especialist in TIVIT.
+<h3>- 😁 I’m currently working on RPA Specialist in TIVIT.
 
 ##
 
